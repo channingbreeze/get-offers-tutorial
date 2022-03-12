@@ -1,3 +1,5 @@
+![binarySearch](/assets/codes/basic/binarySearch.webp "binarySearch")
+
 ### 前言
 
 写这篇文章前，我看了很多讲二分查找的文章，包括公众号和知乎的，在我看来，讲得都比较差，说几点原因：
@@ -188,3 +190,5 @@ leetcode162 寻找峰值
 还不会的话关注我，后续讲解。
 
 [原文链接](https://mp.weixin.qq.com/s?__biz=MzIzMTE1ODkyNQ==&mid=2649414053&idx=1&sn=f8e4acbaaa15de712540e2d2d7a76186&chksm=f0b61c47c7c19551d3cf6eabadee922c491bcc230e3def24212dcb401c86e9f8960966d048e1&token=1678213786&lang=zh_CN#rd)
+
+![follow](/assets/follow.webp "follow")
